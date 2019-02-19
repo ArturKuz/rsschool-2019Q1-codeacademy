@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Artur Kuznetsov 
+HTML CSS Basics: https://www.codecademy.com/users/ArturKuz/achievements
